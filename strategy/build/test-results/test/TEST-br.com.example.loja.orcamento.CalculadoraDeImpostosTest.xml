@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.example.loja.orcamento.CalculadoraDeImpostosTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-14T21:12:44" hostname="D2YYG2M2" time="0.024">
+  <properties/>
+  <testcase name="testarCalculadoraDeImpostosICMS()" classname="br.com.example.loja.orcamento.CalculadoraDeImpostosTest" time="0.021"/>
+  <testcase name="testarCalculadoraDeImpostosISS()" classname="br.com.example.loja.orcamento.CalculadoraDeImpostosTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
